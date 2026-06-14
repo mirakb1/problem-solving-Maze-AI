@@ -1,2 +1,13 @@
-# problem-solving-Maze-AI
-Best-First Search algorithm implementation for solving a maze pathfinding problem using Manhattan distance heuristic, with file-based input and optimal path generation.
+A B C D E F G
+H I J K L M N
+O P Q R S T U
+0 0 1 0 0 0
+0 0 1 0 0 0
+0 0 0 0 0 0
+0 1
+0 1
+0 0
+0 0
+0 1
+0 1
+1 0
